@@ -1,0 +1,23 @@
+{
+  "name": "nock-interceptor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "author": "n30n0v@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "got": "^8.3.1",
+    "jest": "^23.1.0",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "mocha": "^5.2.0",
+    "node-fetch": "^2.1.2",
+    "prettier": "1.13.5",
+    "request": "^2.87.0"
+  }
+}
